@@ -27,9 +27,9 @@
 ---
 
 ### 🌱 Currently Exploring
-- FastAPI and Python integrations  
-- UI/UX improvements with Figma  
-- System Design fundamentals  
+- High level design
+- Design patterns
+- Distributed Systems & Message Queues (BullMQ, Redis, Kafka)
 
 ---
 
