@@ -20,19 +20,17 @@
 ---
 
 ### 🚀 Projects
-- 🧠 **AI Daily Planner** – Smart planner that organizes and manages tasks with AI according to your requirements
-- - 📊 **Marks Dashboard** – Tool to visualize marks as report and graph 
-- 🧾 **Personal Portfolio** – Built using React and Tailwind CSS  
+- 🧠 **AI Daily Planner** – Smart planner that organizes and manages tasks with AI according to your requirements  
+- 📊 **Marks Dashboard** – Tool to visualize marks as reports and graphs  
+- 💼 **Personal Portfolio** – Built using React and Tailwind CSS  
 
 ---
 
 ### 🌱 Currently Exploring
-- High level design
-- Design patterns
-- Distributed Systems & Message Queues (BullMQ, Redis, Kafka)
+- High-Level Design  
+- Design Patterns  
+- Distributed Systems & Message Queues (BullMQ, Redis, Kafka)  
 
 ---
 
 ⭐ *"Code with curiosity, create with clarity."*
-
-
