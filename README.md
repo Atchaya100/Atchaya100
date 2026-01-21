@@ -20,6 +20,7 @@
 ---
 
 ### 🚀 Projects
+-🧠 **Notion Clone** – Auto-saving note taker app with checklist, heading, and textboxes
 - 🧠 **AI Daily Planner** – Smart planner that organizes and manages tasks with AI according to your requirements  
 - 📊 **Marks Dashboard** – Tool to visualize marks as reports and graphs  
 - 💼 **Personal Portfolio** – Built using React and Tailwind CSS  
